@@ -23,3 +23,6 @@ git clone https://github.com/edelahah/algo_topo.git
 cd algo_topo
 jupyter notebook
 ```
+
+In case of trouble or if you are running Windows/Mac OSX, please refer to : http://jupyter.org/install
+To use a notebook : https://jupyter-notebook.readthedocs.io/en/stable/ui_components.html
