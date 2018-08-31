@@ -7,6 +7,7 @@ Main tools used :
 * [pairwise_distances](http://scikit-learn.org/dev/modules/generated/sklearn.metrics.pairwise.pairwise_distances.html) used to compute distance matrix with choosen metric
 * [LabelPropagation](http://scikit-learn.org/dev/modules/generated/sklearn.semi_supervised.LabelPropagation.html)
 * [mlxtend](https://github.com/rasbt/mlxtend) to plot decision boundaries
+* [PCA](http://scikit-learn.org/dev/modules/generated/sklearn.decomposition.PCA.html) to plot data in 2D
 
 To get a single linkage, we need scikit-learn dev version (the 31/08/2018).
 
